@@ -2,7 +2,7 @@
 
 Spring Boot, Spring Security, RabbitMQ gibi teknolojiler kullanılarak geliştirilmiş bu uygulamada, kullanıcı yetkilendirme ve kimlik doğrulama sisteminin yanı sıra API Authentication uygulaması da içermektedir. Temel olarak amacı tam yetkili bir kullanıcının, belirli rollerle korunan API endpointlerine erişerek müşteri ve dosya yönetimini sağlamaktır. Ayrıca her müşteri kaydında müşteriye RabbitMQ üzerinden email mesajı gönderilmektedir.
 
-#### Frontend (React) uygulaması için: [JWT Based Customer Archiving System - Frontend](https://github.com/bilalmuzafferkose/spring-customer-archiving-system-ui)
+#### Frontend (React) uygulaması için: [JWT Based Customer Archiving System - Frontend](https://github.com/bilalmuzafferkose/customer-archiving-system-ui)
 
 ## Başlangıç
 
